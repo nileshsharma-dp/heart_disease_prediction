@@ -1,4 +1,10 @@
 # Heart Disease Prediction
+---
+
+
+<img src="https://github.com/nileshsharma-dp/heart_disease_prediction/blob/main/Assets/heart.jpeg" alt="Heart Disease" width="1200"/>
+
+---
 
 This project predicts the likelihood of heart disease using machine learning algorithms (Logistic Regression and Random Forest) based on various health indicators such as age, cholesterol, and blood pressure.
 
