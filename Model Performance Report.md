@@ -109,5 +109,3 @@ Random Forest performed similarly, with very close precision, recall, and F1-sco
 3. **Future Work:**  
    - Further evaluate models with ROC curves and AUC.  
    - Assess calibration for predicted probabilities.  
-
----
