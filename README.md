@@ -1,5 +1,3 @@
-# heart_disease_prediction
-The Heart Disease Prediction model uses Logistic Regression and Random Forest algorithms to predict the likelihood of heart disease based on various health features like age, cholesterol, and blood pressure.
 # Heart Disease Prediction
 
 This project predicts the likelihood of heart disease using machine learning algorithms (Logistic Regression and Random Forest) based on various health indicators such as age, cholesterol, and blood pressure.
